@@ -1,3 +1,1 @@
 - 👋 Hi there, I’m @Elsy Kimka
-- A software Engineer...
-- Located in Nairobi,Kenya
