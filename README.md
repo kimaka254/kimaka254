@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there. I'M Elsy Marion Kimaka.<br>Web Developer && UI/UX designer.<br>I'm currently learning ReactJS.<br>Ask me about web development and UI /UXdesign.
+Hi there. I'M Elsy Marion Kimaka.<br>Web Developer , Data analyst && Machine Learning Engineer.
 
 
 ## 🌐 Socials:
